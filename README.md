@@ -11,7 +11,7 @@ Topics
 * Conditional Statements
 * Switch
 * Loops
-* Problem Solving
+
 
 Tools
 
